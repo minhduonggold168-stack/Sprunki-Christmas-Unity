@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 12_Purple_(Durple)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: purple_(durple)
+  displayName: Purple (Durple)
+  soundCategory: 2
+  sortOrder: 11
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.69411767, g: 0, b: 1, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 5cd12184e8bb6054da5680d7d64d4636, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 3f93994da14d54245b4a8fd56ceb2005, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 5cd12184e8bb6054da5680d7d64d4636, type: 3}
+  - {fileID: 8300000, guid: 3f93994da14d54245b4a8fd56ceb2005, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: -3
+  iconSprite: {fileID: 21300000, guid: 2b6d281cb5826324791fdacf5c5af3a3, type: 3}
+  idleSprite: {fileID: 21300000, guid: cf7c0b1dc6c096e4a9a244a1497a730d, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 1e1090653db934b4480676956eab9459, type: 3}
+  - {fileID: 21300000, guid: d0bdc531aff47ed4abd2f3cf36a305d1, type: 3}
+  - {fileID: 21300000, guid: b28fc167c09e5f146b9b808e64206224, type: 3}
+  - {fileID: 21300000, guid: a031efe4b80d8a64681efff32ece5ffd, type: 3}
+  - {fileID: 21300000, guid: 0bf3c810f2cf6fe4b825eba0a2761c9e, type: 3}
+  - {fileID: 21300000, guid: dd70c136eb4f0bf4a98cbee3c587172e, type: 3}
+  - {fileID: 21300000, guid: e9c47d719bc72d541944349c02073c8d, type: 3}
+  - {fileID: 21300000, guid: e808daec3ae92d1478962fe5be6b7f0f, type: 3}
+  - {fileID: 21300000, guid: 6d646bb493986cd49b468ed4fc2e7a06, type: 3}
+  - {fileID: 21300000, guid: bb859153eff0af14084af1bb3a13ba83, type: 3}
+  - {fileID: 21300000, guid: f627088838c03e9439d2ac9d42e1c368, type: 3}
+  - {fileID: 21300000, guid: 32dd8c4dc780d3c4e829f21eb39e1e6c, type: 3}
+  - {fileID: 21300000, guid: 5ba64e8f9cd95104a8cb49f8f574b5a4, type: 3}
+  - {fileID: 21300000, guid: 8f5bb4e1189135d42b97269dd5771ee3, type: 3}
+  - {fileID: 21300000, guid: 5baa06742cc68eb4fa85a2f5604174dd, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: cf7c0b1dc6c096e4a9a244a1497a730d, type: 3}
+  - {fileID: 21300000, guid: 1e1090653db934b4480676956eab9459, type: 3}
+  - {fileID: 21300000, guid: d0bdc531aff47ed4abd2f3cf36a305d1, type: 3}
+  - {fileID: 21300000, guid: b28fc167c09e5f146b9b808e64206224, type: 3}
+  - {fileID: 21300000, guid: a031efe4b80d8a64681efff32ece5ffd, type: 3}
+  - {fileID: 21300000, guid: 0bf3c810f2cf6fe4b825eba0a2761c9e, type: 3}
+  - {fileID: 21300000, guid: dd70c136eb4f0bf4a98cbee3c587172e, type: 3}
+  - {fileID: 21300000, guid: e9c47d719bc72d541944349c02073c8d, type: 3}
+  - {fileID: 21300000, guid: e808daec3ae92d1478962fe5be6b7f0f, type: 3}
+  - {fileID: 21300000, guid: 6d646bb493986cd49b468ed4fc2e7a06, type: 3}
+  - {fileID: 21300000, guid: bb859153eff0af14084af1bb3a13ba83, type: 3}
+  - {fileID: 21300000, guid: f627088838c03e9439d2ac9d42e1c368, type: 3}
+  - {fileID: 21300000, guid: 32dd8c4dc780d3c4e829f21eb39e1e6c, type: 3}
+  - {fileID: 21300000, guid: 5ba64e8f9cd95104a8cb49f8f574b5a4, type: 3}
+  - {fileID: 21300000, guid: 8f5bb4e1189135d42b97269dd5771ee3, type: 3}
+  - {fileID: 21300000, guid: 5baa06742cc68eb4fa85a2f5604174dd, type: 3}
+  originalScratchTargetName: Purple (Durple)
+  importedAssetSubfolder: Purple_(Durple)

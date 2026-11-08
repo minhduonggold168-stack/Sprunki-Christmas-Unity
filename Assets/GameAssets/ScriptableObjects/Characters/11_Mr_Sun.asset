@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 11_Mr_Sun
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: mr_sun
+  displayName: Mr. Sun
+  soundCategory: 2
+  sortOrder: 10
+  isPartyTriggerItem: 0
+  themeColor: {r: 1, g: 0.9137255, b: 0, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: d437d90d15e8f97478d0b55415e284b3, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 9cb6da6633aae2243ac0a540f45f7073, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: d437d90d15e8f97478d0b55415e284b3, type: 3}
+  - {fileID: 8300000, guid: 9cb6da6633aae2243ac0a540f45f7073, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: -5
+  iconSprite: {fileID: 21300000, guid: ae864edf51e1ded42a2b1957433f1e6c, type: 3}
+  idleSprite: {fileID: 21300000, guid: 7139f0d489e7a454c85f7a93e4499397, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: fc01b3e20ce62af48a62ee37f5e2be5d, type: 3}
+  - {fileID: 21300000, guid: 40f8ae191f37d7549a18dbe51242ae03, type: 3}
+  - {fileID: 21300000, guid: 973704efef00a344bb5cbc827cbc30fe, type: 3}
+  - {fileID: 21300000, guid: c64a029b77753b148bdc11ee4a204326, type: 3}
+  - {fileID: 21300000, guid: 55c3e7cb7482ffd40bc7b0e8aa854843, type: 3}
+  - {fileID: 21300000, guid: 67908ba99baa8904ba7bf95cb77f3b25, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 7139f0d489e7a454c85f7a93e4499397, type: 3}
+  - {fileID: 21300000, guid: fc01b3e20ce62af48a62ee37f5e2be5d, type: 3}
+  - {fileID: 21300000, guid: 40f8ae191f37d7549a18dbe51242ae03, type: 3}
+  - {fileID: 21300000, guid: 973704efef00a344bb5cbc827cbc30fe, type: 3}
+  - {fileID: 21300000, guid: c64a029b77753b148bdc11ee4a204326, type: 3}
+  - {fileID: 21300000, guid: 55c3e7cb7482ffd40bc7b0e8aa854843, type: 3}
+  - {fileID: 21300000, guid: 67908ba99baa8904ba7bf95cb77f3b25, type: 3}
+  originalScratchTargetName: Mr. Sun
+  importedAssetSubfolder: Mr_Sun

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 19_Blue_(Jevin)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: blue_(jevin)
+  displayName: Blue (Jevin)
+  soundCategory: 3
+  sortOrder: 18
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.043137256, g: 0, b: 1, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 42152a8cbe09b2844b291e5abe4fc9fa, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: e4df3200956b6b14789530657f5c7a6f, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 42152a8cbe09b2844b291e5abe4fc9fa, type: 3}
+  - {fileID: 8300000, guid: e4df3200956b6b14789530657f5c7a6f, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 7
+  iconSprite: {fileID: 21300000, guid: 838a1e8784cfb814c8dfe7bcbf9ca22c, type: 3}
+  idleSprite: {fileID: 21300000, guid: e34815c2968fe524fa367cc684f7a98d, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 2c1a64f389746154c8375b9014d3b85b, type: 3}
+  - {fileID: 21300000, guid: 15e3fcabfe6694f448664d7cdfb02c2c, type: 3}
+  - {fileID: 21300000, guid: 6b282cf268fc3e242a12f5a02ea62e2d, type: 3}
+  - {fileID: 21300000, guid: e8c3dc5eb3d55264eb2e7129aa3cd1a3, type: 3}
+  - {fileID: 21300000, guid: 9cd3c03c09e1ba34da02032dfb880672, type: 3}
+  - {fileID: 21300000, guid: a6440402746e63c438930af26f046198, type: 3}
+  - {fileID: 21300000, guid: 867efc684456c7d49ad8797ee828b586, type: 3}
+  - {fileID: 21300000, guid: 212ae99541642b64c95723d7d6aeb46a, type: 3}
+  - {fileID: 21300000, guid: 99ea81111c103644190239d7d4e1b531, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: e34815c2968fe524fa367cc684f7a98d, type: 3}
+  - {fileID: 21300000, guid: 2c1a64f389746154c8375b9014d3b85b, type: 3}
+  - {fileID: 21300000, guid: 15e3fcabfe6694f448664d7cdfb02c2c, type: 3}
+  - {fileID: 21300000, guid: 6b282cf268fc3e242a12f5a02ea62e2d, type: 3}
+  - {fileID: 21300000, guid: e8c3dc5eb3d55264eb2e7129aa3cd1a3, type: 3}
+  - {fileID: 21300000, guid: 9cd3c03c09e1ba34da02032dfb880672, type: 3}
+  - {fileID: 21300000, guid: a6440402746e63c438930af26f046198, type: 3}
+  - {fileID: 21300000, guid: 867efc684456c7d49ad8797ee828b586, type: 3}
+  - {fileID: 21300000, guid: 212ae99541642b64c95723d7d6aeb46a, type: 3}
+  - {fileID: 21300000, guid: 99ea81111c103644190239d7d4e1b531, type: 3}
+  originalScratchTargetName: Blue (Jevin)
+  importedAssetSubfolder: Blue_(Jevin)

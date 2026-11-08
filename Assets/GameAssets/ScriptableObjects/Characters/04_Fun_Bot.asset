@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 04_Fun_Bot
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: fun_bot
+  displayName: Fun Bot
+  soundCategory: 0
+  sortOrder: 3
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.7294118, g: 0.74509805, b: 0.7490196, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 9a200da51f2d79549a169df71d5c1343, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 6afeffe8b0ba48e4d98e3bb2349c6e5e, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 9a200da51f2d79549a169df71d5c1343, type: 3}
+  - {fileID: 8300000, guid: 6afeffe8b0ba48e4d98e3bb2349c6e5e, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 7
+  iconSprite: {fileID: 21300000, guid: c933eb00f1ba21745b27e11aca5a6c11, type: 3}
+  idleSprite: {fileID: 21300000, guid: 102e44a7a64dcd34491a3bbb1a87f3a3, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 6c430bba554a5f74db4991df4fa5122e, type: 3}
+  - {fileID: 21300000, guid: dbb547ee4b09ab8448e245cf3b65a8c6, type: 3}
+  - {fileID: 21300000, guid: 58f343b5005b717409bd62a767f4f506, type: 3}
+  - {fileID: 21300000, guid: 83ff3df335ca32e47acdde7f654f01ed, type: 3}
+  - {fileID: 21300000, guid: a29571fc19fe7a542b5f97d198d2c35b, type: 3}
+  - {fileID: 21300000, guid: cb73eb4943c5c34439fa1497eca1478c, type: 3}
+  - {fileID: 21300000, guid: becefe427a661a44195c89e18bdda2ff, type: 3}
+  - {fileID: 21300000, guid: bd02f9b57e9b1524699d51b408fc0f0f, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 102e44a7a64dcd34491a3bbb1a87f3a3, type: 3}
+  - {fileID: 21300000, guid: 6c430bba554a5f74db4991df4fa5122e, type: 3}
+  - {fileID: 21300000, guid: dbb547ee4b09ab8448e245cf3b65a8c6, type: 3}
+  - {fileID: 21300000, guid: 58f343b5005b717409bd62a767f4f506, type: 3}
+  - {fileID: 21300000, guid: 83ff3df335ca32e47acdde7f654f01ed, type: 3}
+  - {fileID: 21300000, guid: a29571fc19fe7a542b5f97d198d2c35b, type: 3}
+  - {fileID: 21300000, guid: cb73eb4943c5c34439fa1497eca1478c, type: 3}
+  - {fileID: 21300000, guid: becefe427a661a44195c89e18bdda2ff, type: 3}
+  - {fileID: 21300000, guid: bd02f9b57e9b1524699d51b408fc0f0f, type: 3}
+  originalScratchTargetName: Fun Bot
+  importedAssetSubfolder: Fun_Bot

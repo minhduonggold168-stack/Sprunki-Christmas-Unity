@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 02_Red_(Raddy)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: red_(raddy)
+  displayName: Red (Raddy)
+  soundCategory: 0
+  sortOrder: 1
+  isPartyTriggerItem: 0
+  themeColor: {r: 1, g: 0, b: 0, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 1afbb060b712a084aaca8051d146ab47, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 4941a81390921cf4cab72ac8fa85222c, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 1afbb060b712a084aaca8051d146ab47, type: 3}
+  - {fileID: 8300000, guid: 4941a81390921cf4cab72ac8fa85222c, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 2
+  iconSprite: {fileID: 21300000, guid: cb6194ef61664fd4d80d27e7b0476878, type: 3}
+  idleSprite: {fileID: 21300000, guid: 083413437db552a46b5be79f24b407ec, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 037019b813c1f5141b723382b0811fd4, type: 3}
+  - {fileID: 21300000, guid: c4315980af65f9040b1827ef5609679d, type: 3}
+  - {fileID: 21300000, guid: 49ae24ded4d0a8d42bbc8f099ab61577, type: 3}
+  - {fileID: 21300000, guid: cf92da449a5ccc645a9ed2b936572574, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 083413437db552a46b5be79f24b407ec, type: 3}
+  - {fileID: 21300000, guid: 037019b813c1f5141b723382b0811fd4, type: 3}
+  - {fileID: 21300000, guid: c4315980af65f9040b1827ef5609679d, type: 3}
+  - {fileID: 21300000, guid: 49ae24ded4d0a8d42bbc8f099ab61577, type: 3}
+  - {fileID: 21300000, guid: cf92da449a5ccc645a9ed2b936572574, type: 3}
+  originalScratchTargetName: Red (Raddy)
+  importedAssetSubfolder: Red_(Raddy)

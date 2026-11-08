@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 13_Mr_Tree
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: mr_tree
+  displayName: Mr. Tree
+  soundCategory: 2
+  sortOrder: 12
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.5019608, g: 0.26666668, b: 0, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 804b3dc706a2cdf499c5c7bc7092a34e, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 0735ded65ee77e84ca1e0754619af127, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 804b3dc706a2cdf499c5c7bc7092a34e, type: 3}
+  - {fileID: 8300000, guid: 0735ded65ee77e84ca1e0754619af127, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 0
+  iconSprite: {fileID: 21300000, guid: 0bf0dc1ac2b3e8c4fa624e241defcdde, type: 3}
+  idleSprite: {fileID: 21300000, guid: 3f291ff0c5ddc5e40bf75e7ac5b985e0, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 1654d9b6915d36748a35dd39894bd995, type: 3}
+  - {fileID: 21300000, guid: 63b1366b02ae9044e955e02a3cb7c5cc, type: 3}
+  - {fileID: 21300000, guid: 84cd7968c66de864aa90cc1eb57355b3, type: 3}
+  - {fileID: 21300000, guid: abab1e8bc9b026c4988e5691120f9a93, type: 3}
+  - {fileID: 21300000, guid: d8d363a86adfc4942a50659b191497f9, type: 3}
+  - {fileID: 21300000, guid: 7a281620428c93648a11d4d876087d6b, type: 3}
+  - {fileID: 21300000, guid: 76e290d979554444a80c7cae8ba11a41, type: 3}
+  - {fileID: 21300000, guid: 4e7bb1b3f8864c04f99421cb6ff811bc, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 3f291ff0c5ddc5e40bf75e7ac5b985e0, type: 3}
+  - {fileID: 21300000, guid: 1654d9b6915d36748a35dd39894bd995, type: 3}
+  - {fileID: 21300000, guid: 63b1366b02ae9044e955e02a3cb7c5cc, type: 3}
+  - {fileID: 21300000, guid: 84cd7968c66de864aa90cc1eb57355b3, type: 3}
+  - {fileID: 21300000, guid: abab1e8bc9b026c4988e5691120f9a93, type: 3}
+  - {fileID: 21300000, guid: d8d363a86adfc4942a50659b191497f9, type: 3}
+  - {fileID: 21300000, guid: 7a281620428c93648a11d4d876087d6b, type: 3}
+  - {fileID: 21300000, guid: 76e290d979554444a80c7cae8ba11a41, type: 3}
+  - {fileID: 21300000, guid: 4e7bb1b3f8864c04f99421cb6ff811bc, type: 3}
+  originalScratchTargetName: Mr. Tree
+  importedAssetSubfolder: Mr_Tree

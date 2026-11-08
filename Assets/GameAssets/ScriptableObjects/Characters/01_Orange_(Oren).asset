@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 01_Orange_(Oren)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: orange_(oren)
+  displayName: Orange (Oren)
+  soundCategory: 0
+  sortOrder: 0
+  isPartyTriggerItem: 0
+  themeColor: {r: 1, g: 0.43529412, b: 0, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 9ed2e105e54f6274aacdd7850148d07b, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 4fbf787eec6ac7d4e8b8e667dbdfdfbd, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 9ed2e105e54f6274aacdd7850148d07b, type: 3}
+  - {fileID: 8300000, guid: 4fbf787eec6ac7d4e8b8e667dbdfdfbd, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 0
+  iconSprite: {fileID: 21300000, guid: 780aeaf874b4a634e916b8b948ecd46a, type: 3}
+  idleSprite: {fileID: 21300000, guid: 1528045f0c3170242b3c33c13f702df1, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 8c381dc8a3c376a4aa56cb7b683c6eea, type: 3}
+  - {fileID: 21300000, guid: 90cfd4604612df8469e31d31a85ef72d, type: 3}
+  - {fileID: 21300000, guid: 30db79d545c6c2448b55f9831db4d9fb, type: 3}
+  - {fileID: 21300000, guid: 4a88b52beae5c914fb3dc8a51f420be8, type: 3}
+  - {fileID: 21300000, guid: f93f21df64837944eb2a58fe9e48302f, type: 3}
+  - {fileID: 21300000, guid: 679bb93e8701c0f4a9749fcdf46d83b7, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 1528045f0c3170242b3c33c13f702df1, type: 3}
+  - {fileID: 21300000, guid: 8c381dc8a3c376a4aa56cb7b683c6eea, type: 3}
+  - {fileID: 21300000, guid: 90cfd4604612df8469e31d31a85ef72d, type: 3}
+  - {fileID: 21300000, guid: 30db79d545c6c2448b55f9831db4d9fb, type: 3}
+  - {fileID: 21300000, guid: 4a88b52beae5c914fb3dc8a51f420be8, type: 3}
+  - {fileID: 21300000, guid: f93f21df64837944eb2a58fe9e48302f, type: 3}
+  - {fileID: 21300000, guid: 679bb93e8701c0f4a9749fcdf46d83b7, type: 3}
+  originalScratchTargetName: Orange (Oren)
+  importedAssetSubfolder: Orange_(Oren)

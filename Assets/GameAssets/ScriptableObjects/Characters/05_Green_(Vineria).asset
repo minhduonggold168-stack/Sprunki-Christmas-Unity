@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 05_Green_(Vineria)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: green_(vineria)
+  displayName: Green (Vineria)
+  soundCategory: 0
+  sortOrder: 4
+  isPartyTriggerItem: 0
+  themeColor: {r: 0, g: 1, b: 0.08235294, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: c70a95466ccfa30418d36d24c2187c7c, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 5eb13fbe211d8c443a19c3e5d3f554fe, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: c70a95466ccfa30418d36d24c2187c7c, type: 3}
+  - {fileID: 8300000, guid: 5eb13fbe211d8c443a19c3e5d3f554fe, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 9
+  iconSprite: {fileID: 21300000, guid: c625bb529bdd6ba46ab8696b5b847853, type: 3}
+  idleSprite: {fileID: 21300000, guid: 37a9ac6f6cff24440a6b9158e1cbad2a, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 6ab1cf7d56e7f574b8d56bea30bf1fe9, type: 3}
+  - {fileID: 21300000, guid: 125cdba4f5b51f64ca7f58e24921fbc6, type: 3}
+  - {fileID: 21300000, guid: 2f7473ee16f903b4b8dc4f1d700b60e9, type: 3}
+  - {fileID: 21300000, guid: eff085b92c4b0214ba556006cb904957, type: 3}
+  - {fileID: 21300000, guid: 9ef580d13932d684586e263252ee80e4, type: 3}
+  - {fileID: 21300000, guid: f84167ccf1080ed4cab8b85efb1bca21, type: 3}
+  - {fileID: 21300000, guid: 6d0e0c5c3acc0274bb2abe61ee21e3a7, type: 3}
+  - {fileID: 21300000, guid: 8d16e9253facf84408610198e87572be, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 37a9ac6f6cff24440a6b9158e1cbad2a, type: 3}
+  - {fileID: 21300000, guid: 6ab1cf7d56e7f574b8d56bea30bf1fe9, type: 3}
+  - {fileID: 21300000, guid: 125cdba4f5b51f64ca7f58e24921fbc6, type: 3}
+  - {fileID: 21300000, guid: 2f7473ee16f903b4b8dc4f1d700b60e9, type: 3}
+  - {fileID: 21300000, guid: eff085b92c4b0214ba556006cb904957, type: 3}
+  - {fileID: 21300000, guid: 9ef580d13932d684586e263252ee80e4, type: 3}
+  - {fileID: 21300000, guid: f84167ccf1080ed4cab8b85efb1bca21, type: 3}
+  - {fileID: 21300000, guid: 6d0e0c5c3acc0274bb2abe61ee21e3a7, type: 3}
+  - {fileID: 21300000, guid: 8d16e9253facf84408610198e87572be, type: 3}
+  originalScratchTargetName: Green (Vineria)
+  importedAssetSubfolder: Green_(Vineria)

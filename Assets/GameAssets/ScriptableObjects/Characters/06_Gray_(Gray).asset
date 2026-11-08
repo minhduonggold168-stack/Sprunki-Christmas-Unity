@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 06_Gray_(Gray)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: gray_(gray)
+  displayName: Gray (Gray)
+  soundCategory: 1
+  sortOrder: 5
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 8068a3842d61b1549840fdafe2294e49, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 64dc58740f95d4943a55575caf8d5582, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 8068a3842d61b1549840fdafe2294e49, type: 3}
+  - {fileID: 8300000, guid: 64dc58740f95d4943a55575caf8d5582, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 12
+  iconSprite: {fileID: 21300000, guid: 65ebac7e5bbde50438aae1283f30d4d6, type: 3}
+  idleSprite: {fileID: 21300000, guid: 76ebadb226fb7f949a215cde066214cc, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 6ee709a0e05a62847add3b602df5cae6, type: 3}
+  - {fileID: 21300000, guid: 62f29230ce70abd479bd5cc67fc6baae, type: 3}
+  - {fileID: 21300000, guid: a5e6c47751347f14aa7e88c35c0011ee, type: 3}
+  - {fileID: 21300000, guid: d3d6ac346c49bfb4abb8b306fb8ba5d0, type: 3}
+  - {fileID: 21300000, guid: 6b80499d75f653542adbdb93fab67aad, type: 3}
+  - {fileID: 21300000, guid: df07f39b0e74ff146bae75f6a7bee16a, type: 3}
+  - {fileID: 21300000, guid: 69f934d395d3ee24f9657bb3097342e6, type: 3}
+  - {fileID: 21300000, guid: 52dcf9a3a9115e84ea06c62b721a0c27, type: 3}
+  - {fileID: 21300000, guid: dd00e5baaf186114cbf5cf61edc6ad61, type: 3}
+  - {fileID: 21300000, guid: 41bea505eae8f664682ddcfb6ab7f5b9, type: 3}
+  - {fileID: 21300000, guid: b50817b4ec6d49947b858c963fae79b8, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 76ebadb226fb7f949a215cde066214cc, type: 3}
+  - {fileID: 21300000, guid: 6ee709a0e05a62847add3b602df5cae6, type: 3}
+  - {fileID: 21300000, guid: 62f29230ce70abd479bd5cc67fc6baae, type: 3}
+  - {fileID: 21300000, guid: a5e6c47751347f14aa7e88c35c0011ee, type: 3}
+  - {fileID: 21300000, guid: d3d6ac346c49bfb4abb8b306fb8ba5d0, type: 3}
+  - {fileID: 21300000, guid: 6b80499d75f653542adbdb93fab67aad, type: 3}
+  - {fileID: 21300000, guid: df07f39b0e74ff146bae75f6a7bee16a, type: 3}
+  - {fileID: 21300000, guid: 69f934d395d3ee24f9657bb3097342e6, type: 3}
+  - {fileID: 21300000, guid: 52dcf9a3a9115e84ea06c62b721a0c27, type: 3}
+  - {fileID: 21300000, guid: dd00e5baaf186114cbf5cf61edc6ad61, type: 3}
+  - {fileID: 21300000, guid: 41bea505eae8f664682ddcfb6ab7f5b9, type: 3}
+  - {fileID: 21300000, guid: b50817b4ec6d49947b858c963fae79b8, type: 3}
+  originalScratchTargetName: Gray (Gray)
+  importedAssetSubfolder: Gray_(Gray)

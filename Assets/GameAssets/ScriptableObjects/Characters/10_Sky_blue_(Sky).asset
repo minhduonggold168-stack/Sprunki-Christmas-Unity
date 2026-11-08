@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 10_Sky_blue_(Sky)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: sky_blue_(sky)
+  displayName: Sky blue (Sky)
+  soundCategory: 1
+  sortOrder: 9
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.3019608, g: 0.9647059, b: 1, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: ab6575f8d9a76034d9eb89b527a6d7b1, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 9f272c8e090e06847ba9e39f1a033d4f, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: ab6575f8d9a76034d9eb89b527a6d7b1, type: 3}
+  - {fileID: 8300000, guid: 9f272c8e090e06847ba9e39f1a033d4f, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 12
+  iconSprite: {fileID: 21300000, guid: 1367bc302a2658a46889cefc398f7ba4, type: 3}
+  idleSprite: {fileID: 21300000, guid: d838171feeff1d14d83666010c17f3b6, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: c3b3919047121bb429986cb872782cf9, type: 3}
+  - {fileID: 21300000, guid: 8519f14605b268c4f8b4bf0833f12d0a, type: 3}
+  - {fileID: 21300000, guid: db0e06787e7c0da4fb11161fad741ea2, type: 3}
+  - {fileID: 21300000, guid: a58c0400996bfdd4fa3a73ac7ed51df2, type: 3}
+  - {fileID: 21300000, guid: 333bb5c6ab48ce045b721d3a164e9fea, type: 3}
+  - {fileID: 21300000, guid: 70eda63cc03802c4ca5d926dc3d32763, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: d838171feeff1d14d83666010c17f3b6, type: 3}
+  - {fileID: 21300000, guid: c3b3919047121bb429986cb872782cf9, type: 3}
+  - {fileID: 21300000, guid: 8519f14605b268c4f8b4bf0833f12d0a, type: 3}
+  - {fileID: 21300000, guid: db0e06787e7c0da4fb11161fad741ea2, type: 3}
+  - {fileID: 21300000, guid: a58c0400996bfdd4fa3a73ac7ed51df2, type: 3}
+  - {fileID: 21300000, guid: 333bb5c6ab48ce045b721d3a164e9fea, type: 3}
+  - {fileID: 21300000, guid: 70eda63cc03802c4ca5d926dc3d32763, type: 3}
+  originalScratchTargetName: Sky blue (Sky)
+  importedAssetSubfolder: Sky_blue_(Sky)

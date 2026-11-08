@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 07_Brown_(brud)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: brown_(brud)
+  displayName: Brown (brud)
+  soundCategory: 1
+  sortOrder: 6
+  isPartyTriggerItem: 0
+  themeColor: {r: 0.5019608, g: 0.26666668, b: 0, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 62017e561a41f344e9f8863ce2e245f7, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: deb251df9f4f0c343b0d7dbe49bc23fe, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 62017e561a41f344e9f8863ce2e245f7, type: 3}
+  - {fileID: 8300000, guid: deb251df9f4f0c343b0d7dbe49bc23fe, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 4
+  iconSprite: {fileID: 21300000, guid: 655ffc428322c8f47b0b44ca98be71e4, type: 3}
+  idleSprite: {fileID: 21300000, guid: 8270ee08a09d5db4ea52d54c3609ac53, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 6e6047e37be78244e94a1dfafa23f92f, type: 3}
+  - {fileID: 21300000, guid: 834e18a326c44574f8b99078ed888a69, type: 3}
+  - {fileID: 21300000, guid: 91ffee1eef42ae548955cc7f450a9905, type: 3}
+  - {fileID: 21300000, guid: 945800e706fdc7b4c8119b0d9ff51922, type: 3}
+  - {fileID: 21300000, guid: 4a0cab302852b164b8e3a97836b316d5, type: 3}
+  - {fileID: 21300000, guid: 91a5183a554516642b1f6d26d5e9613b, type: 3}
+  - {fileID: 21300000, guid: 0b9085aeaf44e8a45b1010f5cef926a8, type: 3}
+  - {fileID: 21300000, guid: bbf8564251dec1a4783fc19ba9271b2f, type: 3}
+  - {fileID: 21300000, guid: 18791ac722bc62f4db73cd09aa7dbbd7, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 8270ee08a09d5db4ea52d54c3609ac53, type: 3}
+  - {fileID: 21300000, guid: 6e6047e37be78244e94a1dfafa23f92f, type: 3}
+  - {fileID: 21300000, guid: 834e18a326c44574f8b99078ed888a69, type: 3}
+  - {fileID: 21300000, guid: 91ffee1eef42ae548955cc7f450a9905, type: 3}
+  - {fileID: 21300000, guid: 945800e706fdc7b4c8119b0d9ff51922, type: 3}
+  - {fileID: 21300000, guid: 4a0cab302852b164b8e3a97836b316d5, type: 3}
+  - {fileID: 21300000, guid: 91a5183a554516642b1f6d26d5e9613b, type: 3}
+  - {fileID: 21300000, guid: 0b9085aeaf44e8a45b1010f5cef926a8, type: 3}
+  - {fileID: 21300000, guid: bbf8564251dec1a4783fc19ba9271b2f, type: 3}
+  - {fileID: 21300000, guid: 18791ac722bc62f4db73cd09aa7dbbd7, type: 3}
+  originalScratchTargetName: Brown (brud)
+  importedAssetSubfolder: Brown_(brud)

@@ -1,0 +1,1202 @@
+{
+  "bpm": 100.0,
+  "stageCostumes": [
+    {
+      "name": "backdrop",
+      "file": "14d72105048d111457d80f1ce54658ff.svg"
+    },
+    {
+      "name": "backdropcute",
+      "file": "c8e4581feb9b27819170434d00d577aa.svg"
+    }
+  ],
+  "poloIdleFile": "65c6f48ea19105ebd99a6b53e24842f3.svg",
+  "popSfxFile": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+  "icons": [
+    {
+      "index": 1,
+      "name": "01-a",
+      "file": "c174348626d08f2975afa5679821b352.svg",
+      "themeHex": "#ff6f00"
+    },
+    {
+      "index": 2,
+      "name": "02-a",
+      "file": "6d67648ab2de791bd741a5ab68e9b9fa.svg",
+      "themeHex": "#ff0000"
+    },
+    {
+      "index": 3,
+      "name": "03-a",
+      "file": "86df121456544c1f31f4862e09483f27.svg",
+      "themeHex": "#babebf"
+    },
+    {
+      "index": 4,
+      "name": "04-a",
+      "file": "c23585a15963a45e79a0ea00b24e2a58.svg",
+      "themeHex": "#babebf"
+    },
+    {
+      "index": 5,
+      "name": "05-a",
+      "file": "d513edb527d5b8766c742ca804d248c2.svg",
+      "themeHex": "#00ff15"
+    },
+    {
+      "index": 6,
+      "name": "06-a",
+      "file": "00959cc2612bfdd930fa03c883c6aeda.svg",
+      "themeHex": "#808080"
+    },
+    {
+      "index": 7,
+      "name": "07-a",
+      "file": "aa71dff964cbe3cc1c081bead8be47d2.svg",
+      "themeHex": "#804400"
+    },
+    {
+      "index": 8,
+      "name": "08-a",
+      "file": "7900382c36f9079ae806356c2577baa0.svg",
+      "themeHex": "#ffc633"
+    },
+    {
+      "index": 9,
+      "name": "09-a",
+      "file": "653b0cddac59eba8af02a844ed17bd8f.svg",
+      "themeHex": "#a5ff00"
+    },
+    {
+      "index": 10,
+      "name": "10-a",
+      "file": "5e7c8ed0deded797dc9bbf11a540faef.svg",
+      "themeHex": "#4df6ff"
+    },
+    {
+      "index": 11,
+      "name": "11-a",
+      "file": "cd58b0c5395822dadb1df2f1bb17025d.svg",
+      "themeHex": "#ffe900"
+    },
+    {
+      "index": 12,
+      "name": "12-a",
+      "file": "f596d50f4e95bcffbaa7f4e3b7949a46.svg",
+      "themeHex": "#b100ff"
+    },
+    {
+      "index": 13,
+      "name": "13-a",
+      "file": "a0597b08926456e2542afd1ec635643b.svg",
+      "themeHex": "#804400"
+    },
+    {
+      "index": 14,
+      "name": "14-a",
+      "file": "b85c7e752913a38c5e08783987a20863.svg",
+      "themeHex": "#ffe900"
+    },
+    {
+      "index": 15,
+      "name": "15-a",
+      "file": "f497db5bb41f1463247cb1e4b8cfdb7b.svg",
+      "themeHex": "#e6be8a"
+    },
+    {
+      "index": 16,
+      "name": "16-a",
+      "file": "0ae0f666e090c73ac1dfce0ac8ba8a20.svg",
+      "themeHex": "#babebf"
+    },
+    {
+      "index": 17,
+      "name": "17-a",
+      "file": "64912b79896a7ae4cc347cc82c00f741.svg",
+      "themeHex": "#ffffff"
+    },
+    {
+      "index": 18,
+      "name": "18-a",
+      "file": "95794818bf39b9fcc65c497e276f5bb8.svg",
+      "themeHex": "#ff80ee"
+    },
+    {
+      "index": 19,
+      "name": "19-a",
+      "file": "39db5a9da829504f4e12e9b365bbc6df.svg",
+      "themeHex": "#0b00ff"
+    },
+    {
+      "index": 20,
+      "name": "20-a",
+      "file": "b652c6bc5926359924fa78da13bd0d0b.svg",
+      "themeHex": "#191919"
+    }
+  ],
+  "characters": [
+    {
+      "orderIndex": 0,
+      "name": "Orange (Oren)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "fa1ed24a6654bedb437c736540ffa6cc.svg"
+        },
+        {
+          "name": "anim",
+          "file": "08a37113d57f46c5c2d8986168676762.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "8e15ab10fed15095e2c12aa1cbd4e410.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "4066838e229200cdd6b13ec7b04e9e0c.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "cba6e9d63541604e3614e9204ea10921.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "2fae8032106966574d30035aabb8f125.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "e990121237812d77b0b7d79fd463c253.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "kick",
+          "file": "2ff9e556ae0b3cb4f9e4750dbe9b17d4.wav"
+        },
+        {
+          "name": "kick2",
+          "file": "2ff9e556ae0b3cb4f9e4750dbe9b17d4.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 1,
+      "name": "Red (Raddy)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "d7dc847b001632e8bdf1a390145f10ac.svg"
+        },
+        {
+          "name": "anim",
+          "file": "7a79a7bb6be5c36ba78dc5ea3e4076ee.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "82f9ed328ac6adedbe0c71a05fe86ce1.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "90825947579f9483a56b643ab2808742.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "f496aca64564c8b04d91b2d492b7f1c5.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "snare",
+          "file": "ae111f7b2abb4ffe113d49e85cadcf7c.wav"
+        },
+        {
+          "name": "snare2",
+          "file": "ae111f7b2abb4ffe113d49e85cadcf7c.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 2,
+      "name": "Silver (Clukr)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "98bb7b472afc9bbb7e1a4da10bf649ac.svg"
+        },
+        {
+          "name": "anim",
+          "file": "f27c7b2dda1c69ff72afb68306468989.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "838d22b447dbac825183fed26fcc1f4c.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "c6f8984f1509c908ecdb28231e024428.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "c1b9f5253e0a1e9297ee6d24eb496277.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "2460253294b644079fa7bd2117822609.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "7178aa8ebcd42f371113b7b05aa2a6f9.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "b7f129e846ba56111097f486c45002c3.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "ride cymbal",
+          "file": "70a511bac6487b9dfb4b9420ad7e86f6.wav"
+        },
+        {
+          "name": "ride cymbal2",
+          "file": "cfb7b02755c589d6a021459ccc2879a4.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 3,
+      "name": "Fun Bot",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "4539a15043d037f0b70f71553b30c9cd.svg"
+        },
+        {
+          "name": "anim",
+          "file": "73c8c9982234c84b63766d64c80ed001.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "8e93dc84d8ea42fbfc692f29018e6012.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "3c5a4d1100c71937a230472417dc6b84.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "449c6cd7c7c61ab7db31b50055cdbc04.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "de33fde6697f49b635556e1badd202ba.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "91b14d4893c68aea56a60513dcde3556.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "09c152f7c8c7cc1a36fad24e0f65193d.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "684acf758277367837a79fa3da98c7b2.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "amen",
+          "file": "5af077595ce5ece3c73a7cb302394015.wav"
+        },
+        {
+          "name": "amen2",
+          "file": "5af077595ce5ece3c73a7cb302394015.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 4,
+      "name": "Green (Vineria)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "9333244c2ca1ff81b7832821b0b79116.svg"
+        },
+        {
+          "name": "anim",
+          "file": "b8b9ed28ea28c9e95053b07514bf0b45.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "7554d1a8e65e95d5db610d48722ac7f4.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "529c4ea358fe45a36e1105ec19872854.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "e45c08ce89aaaf754bc7448e9d4ad9db.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "fd1a32d18c66a087f161c817333d0ef1.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "7456c5bbb765c9318bc5d71da6bf7ad0.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "ef2363320429ea09c1b214482a3fcce4.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "07553a87c9a42c22db8d4ada51990494.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "shaky shaky",
+          "file": "7f08e76918d14fdfa46c4c61728808fc.wav"
+        },
+        {
+          "name": "shaky shaky2",
+          "file": "7f08e76918d14fdfa46c4c61728808fc.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 5,
+      "name": "Gray (Gray)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "2b0d707dc5b6ea94ca34186218819915.svg"
+        },
+        {
+          "name": "anim",
+          "file": "59eede4230ab01c5288e98a495703b94.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "7b9e756d2390d80af8aea3b244ecbae9.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "a674c20baa8bb65d46488bf3a84e3c37.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "57a24fbd9ee00fd3731779d2c5173251.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "3bf9d6f64caf91d384e7e0cd8c234bc1.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "9e9584f86f881a3d7e72f53ce7dbd1e8.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "becac4f2710b8ccfb70f462d651dbd32.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "621c3795f5d151fad36e187924698527.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "886f2379e69f33b29900d3a86d207ab0.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "ba07e86822ad36c2d7235ce4879ef373.svg"
+        },
+        {
+          "name": "anim11",
+          "file": "0c693f1924511dacc26e71007e40d4a2.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "bass1",
+          "file": "ac76a6a92f290e7fac145dd9cf8c2b32.wav"
+        },
+        {
+          "name": "bass2",
+          "file": "c2923c409173fa2ca34dc532a894f9f7.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 6,
+      "name": "Brown (brud)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "aeecff2f8b778b38962fd507eb507e33.svg"
+        },
+        {
+          "name": "anim",
+          "file": "51a7490bbc0e0a4efd17a7650c65dd02.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "f68647c5f3a002e402bab178ec3760d7.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "a87ec180278aea06af36959f808187fa.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "0bca53d561975c979f7a078f0ed50a57.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "e3a82d7c8226e57f02fa213f2c1ff467.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "c54704a460892a7fa033c6e39fc89b6b.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "ff58533e2854f0a3f3957c8d344ca768.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "c3c3968594e0eafcae541e5b79706613.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "7ca53a3cd00b10416b9dd514d696a77a.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "goofy ahh thing",
+          "file": "ef3c0e50f5c2ac26bfc5700fce42db63.wav"
+        },
+        {
+          "name": "goofy ahh thing2",
+          "file": "ef3c0e50f5c2ac26bfc5700fce42db63.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 7,
+      "name": "Gold (Garnold)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "e3c26c2f052ddab44e7f56fdae40afdb.svg"
+        },
+        {
+          "name": "anim",
+          "file": "f2fe7bdc759c6437a01f50cfab4f914f.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "851d5c6581e6d9c7fe9b83359f7a4903.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "38065e683d6547d0d5b3bd34450ac43f.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "20f5f1d9ea5fea6385fa4ee535aef315.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "arpeg",
+          "file": "20dd7bff5b7f33e61e878d6e7b03e48c.wav"
+        },
+        {
+          "name": "arpeg2",
+          "file": "20dd7bff5b7f33e61e878d6e7b03e48c.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 8,
+      "name": "Lime (OWAKCX)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "654ee2c380273f6f0a7e263a6d9b6b28.svg"
+        },
+        {
+          "name": "anim",
+          "file": "d0d629caf148a498747f9c111c4d4944.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "67e0a5672280be071ce3232adff8f56e.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "215b199309252035348e92dc8a8dcde5.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "f7cad846ce2223ea710aaf5b0786de15.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "99b2d43eb5f5662458a38ddbf7563105.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "d8d3ffe82b44484e00439d54a92e36cd.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "d3ad723e621bd55c4b7faa2a24478bf9.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "568b86e6c8c732571faa58d890ddd17e.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "0e00bba784963c40cbe2323d4fa96e32.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "feff8ea97618df29495a578dcbe45dbd.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "wind up1",
+          "file": "793e0dde46587175bc6817a4cfd37699.wav"
+        },
+        {
+          "name": "wind up2",
+          "file": "97d7c85d4f0acd1f12fa65afb27bb1a5.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 9,
+      "name": "Sky blue (Sky)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "6ee7ba49eae48f5753deb07e0b32199b.svg"
+        },
+        {
+          "name": "anim",
+          "file": "bc143e26b9501ce980e9e179024c55a9.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "21f6e03c5e95820a13b2205de8359983.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "2df8b48f909b1a48e99f0a778e0edd0b.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "8ef502f30ed37f7ec5ffd587ea9ad7b5.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "c8a1864e3de3eaf9becf2e9f596e9576.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "124459723b6396eaa9051840558eacca.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "music box1",
+          "file": "c39e54d80f08fd650cc23e04b733a83d.wav"
+        },
+        {
+          "name": "music box2",
+          "file": "d56f8124c08bf51717a97780c4c77067.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 10,
+      "name": "Mr. Sun",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "8b10adb4af05117a0694c5d32dcd83ca.svg"
+        },
+        {
+          "name": "anim",
+          "file": "3e3a2a0021d43310ed74620bb233518b.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "58851b01385779cd9eb2bcf5b726f298.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "bb0cf81000d5d8e064c5e1231b1a04d2.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "c446ea2dfccd26f508ee71efa9e93791.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "cbaa1fe043c1b3a2d07deac47715b178.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "c079b7060d3ee57ab7ae836936af8300.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "piano1",
+          "file": "d4864d2ac4176cff6ecffa0064f6a9b8.wav"
+        },
+        {
+          "name": "piano2",
+          "file": "bfb682f97520199a8861aa95695d7a3f.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 11,
+      "name": "Purple (Durple)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "89536b13f86fa5415b0d51716634fa9e.svg"
+        },
+        {
+          "name": "anim",
+          "file": "4767571f3fa108616d22fe1fe412864f.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "84d98778bf55399b6f308cfad1091784.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "d3c7b8d629c4f4493a5e15872d2fdfb5.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "c05c276a4e105bf5e8e1c8fd6268b25a.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "16e7e7c0fde7cce06ade37deec452b76.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "b4fa32afc5410c06088296fdb04a60fa.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "e6a52c52b2e7a452a74972d571d4ba77.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "ef57346837f5252c4e7698aed067f02d.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "e6c513e1011a5af67d71840a9a5fde76.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "b5c3c94ae6d752f32cb87df1a335e4af.svg"
+        },
+        {
+          "name": "anim11",
+          "file": "46594bafc86ab163fed27ba3bbaf29c1.svg"
+        },
+        {
+          "name": "anim12",
+          "file": "f4271aab34a695e26eb6f7adbfeb3565.svg"
+        },
+        {
+          "name": "anim13",
+          "file": "285c68a9b4d342ac86d21a19d48f61ac.svg"
+        },
+        {
+          "name": "anim14",
+          "file": "67239acc2199a21681763df4000a455d.svg"
+        },
+        {
+          "name": "anim15",
+          "file": "08ebc95124d4b19d5ca820af40bb0a5f.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "tromp new1",
+          "file": "a61d4acb6949d64706ec7246eefc7e96.wav"
+        },
+        {
+          "name": "tromp new2",
+          "file": "d10ff60c2885d6eb682e8ad375a08612.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 12,
+      "name": "Mr. Tree",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "1ccf355435482ae38d24bd5b948ef417.svg"
+        },
+        {
+          "name": "anim",
+          "file": "6de0edacbb5dfae68fcc8f4c18d52e31.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "07e737b35d6a6d08abcdf03b578d82d8.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "75dbe5dabdde8476aab2a8ffdde6af6f.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "e510b837d2c1ac3b33039414f2edfb6e.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "acea95dff466e691b961b547385ddc47.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "90f4afb1ff73ee4ed2fe5b1d3438ce75.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "e38e614c6c148f99bcf3840ff698e623.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "a6114f9bb59f2e20da26ff545073f816.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "organ1",
+          "file": "d690ea637972fe97870d672dca854c80.wav"
+        },
+        {
+          "name": "organ2",
+          "file": "81c754a5cfcf08ac3f91019a98906574.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 13,
+      "name": "Yellow (Simon)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "543119325edb49e5294dd252d196b479.svg"
+        },
+        {
+          "name": "anim",
+          "file": "b9bcc18cb723e4ad40970c1555bdfa9e.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "24ee553af60b7cdf5e9df7ff52a97712.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "8c8d599b5c24e7ca6e59961afea99a97.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "6ee8d9d2af684aab7278f8d5f518e08c.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "199a02b3cae70cfa3bec3fb95395c76d.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "square1",
+          "file": "5a09fb11b6441a49fc732a93b3b86b00.wav"
+        },
+        {
+          "name": "square2",
+          "file": "cd2290c8ad545070517a54f007060c68.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 14,
+      "name": "Tan (Tunner)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "b6c24680d40a48cb02e92269fc00aa82.svg"
+        },
+        {
+          "name": "anim",
+          "file": "b037285408633f761fff3950281ee952.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "15b58a476d85d33a5a1c854dae829686.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "f18fea7a149e6ffe981c1ab6534a4787.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "2ec1a61512291089dd205e692b595b14.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "d54f07db008040e7a1da52bef7f0ec2e.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "e72491e3a08a3cd23e42befa7b3bd3b9.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "f2fb686d08303ec55a4bd7f6ef8f2b86.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "a0e171326d0a11a94e083d13b700a1fd.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "ac4b322940b501e4383e4589bf9e1ed1.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "ff48b5df632933cf2e9d75427573493c.svg"
+        },
+        {
+          "name": "anim11",
+          "file": "2f8b4f3cdf12c18050e06abd88b44a24.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "whistle1",
+          "file": "92ed28220e031b247f5bcce8d0436130.wav"
+        },
+        {
+          "name": "whistle2",
+          "file": "42132de97f842fb6725c7ce9ce35b3eb.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 15,
+      "name": "Mr. Fun Computer",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "fcef65bf54596507b3532b718e8bade4.svg"
+        },
+        {
+          "name": "anim",
+          "file": "331dc371b1ad8c45d8722e4a51427558.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "23a45c0c3fba52cc98e5d3907c14aa1a.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "a48f74daa91dd2a0933e738d8a0050eb.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "c19fc1f82c5ef0158362c4244b6e5186.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "009e9ed88bd2e8098d357bc6bc95623a.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "a1914f1c611ba6d4801df4470ff51907.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "bfb25305b8bb04f5c64d8ffbdbf9ac91.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "b4ece971cddd8081139cd793cbf5928d.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "6c21784833299b7a39921fd21757338f.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "a848c6548e5f2d98e31cd8fec9a61d13.svg"
+        },
+        {
+          "name": "anim11",
+          "file": "4a860ac745f691d666bfc2494ab42948.svg"
+        },
+        {
+          "name": "anim12",
+          "file": "13c5af130f73c59d262aeac4bd847a85.svg"
+        },
+        {
+          "name": "anim13",
+          "file": "4ca823dd9b28e3d4361d16f1bd59074a.svg"
+        },
+        {
+          "name": "anim14",
+          "file": "39b484739ba6eb36f77e68f73b7f90af.svg"
+        },
+        {
+          "name": "anim15",
+          "file": "7ba8080b54858a017b1697b0864caf3c.svg"
+        },
+        {
+          "name": "anim16",
+          "file": "d6d5959c22d73d8a7aaf75f500624910.svg"
+        },
+        {
+          "name": "anim17",
+          "file": "c92415096d305939aa45b95d2a5e0a93.svg"
+        },
+        {
+          "name": "anim18",
+          "file": "1adfd79a9ca385d4cc3cb1bc9070d85e.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "aising1",
+          "file": "cc85f2be1b1764358cd1ab84455d00a0.wav"
+        },
+        {
+          "name": "aising2",
+          "file": "005fd69af635eeee88d2515b0ff1fd4d.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 16,
+      "name": "White (Wenda)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "16d88ed40d2540e0196ad94687a163c3.svg"
+        },
+        {
+          "name": "anim",
+          "file": "aeb8170a18b917b62af5860505618222.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "5fd356b60f9c19aec09c7ff72cf03be0.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "2d8a265f4b5c6091ea12ddd169553357.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "bf4fcd614db7eaa579ee89ded522a222.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "0a5d8dbec16488845cf0da1af4532ca1.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "ca0629b2f3563b68c54bff6e533560dd.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "467efc68e2d632d2424ea494b615df50.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "be7cc4c49866112fbcc16ed1450aa2ef.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "41ed6984d6f70856a4ca424d82faebef.svg"
+        },
+        {
+          "name": "anim10",
+          "file": "f53d071f4269443b137d1df3ecef84a4.svg"
+        },
+        {
+          "name": "anim11",
+          "file": "57d12023194adbc59125ebcbd79ab9a9.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "boring hey sound",
+          "file": "d3412e9a60ca1e4fb3db49587687ec28.wav"
+        },
+        {
+          "name": "boring hey sound2",
+          "file": "d3412e9a60ca1e4fb3db49587687ec28.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 17,
+      "name": "Pink (Pinki)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "ecb35cb33a9dbfa43dee12a01b03742b.svg"
+        },
+        {
+          "name": "anim",
+          "file": "52b4e4fad963799ca5cb53873c0c10ca.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "1799be971def6368e362cffe2c238479.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "fc2bf05e066bc0ff485398c7cac67aeb.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "e071a7f3252132249b687270dc2dbb04.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "da8245b792da15be4eb12a71a3a0df21.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "5fbe0fba17b85f4ba54eb60915baa950.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "48ad5a3277a106cf4e468966beb49a5b.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "femchoir1",
+          "file": "be1cb011ce50969caf9511048105f167.wav"
+        },
+        {
+          "name": "femchoir2",
+          "file": "755b17efd1132952872dd572901b3566.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 18,
+      "name": "Blue (Jevin)",
+      "isPartyTrigger": false,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "ef6b02e840cb17145d2b95e92ebf9d35.svg"
+        },
+        {
+          "name": "anim",
+          "file": "3a756d51d82768d4af2ca57a67c0b949.svg"
+        },
+        {
+          "name": "anim2",
+          "file": "d8e6d27391f424ce229a3d4327130118.svg"
+        },
+        {
+          "name": "anim7",
+          "file": "4531718c62a0396d67d02ad5133754e9.svg"
+        },
+        {
+          "name": "anim3",
+          "file": "3f73c124ac831baa83da4d3be7a032a7.svg"
+        },
+        {
+          "name": "anim4",
+          "file": "79f50743d1d47b3cc21080490d09620b.svg"
+        },
+        {
+          "name": "anim8",
+          "file": "5119927b62a81efc52edfd451a1fcc46.svg"
+        },
+        {
+          "name": "anim5",
+          "file": "4c31e83986e6b7c116ffc7c1d06da420.svg"
+        },
+        {
+          "name": "anim9",
+          "file": "5cde93d49d5d4097a25d96627a9771b1.svg"
+        },
+        {
+          "name": "anim6",
+          "file": "ec9d6bcda484f9e2fb4ee1990a189a36.svg"
+        }
+      ],
+      "sounds": [
+        {
+          "name": "new choir1",
+          "file": "a241da320fdf120b146456732065baa6.wav"
+        },
+        {
+          "name": "new choir2",
+          "file": "c05fb970b4d75f940ab7a6dc54d672a8.wav"
+        }
+      ]
+    },
+    {
+      "orderIndex": 19,
+      "name": "Black?",
+      "isPartyTrigger": true,
+      "costumes": [
+        {
+          "name": "idle",
+          "file": "08bc20f75cb5b089296dc66c5418096c.svg"
+        }
+      ],
+      "sounds": []
+    }
+  ]
+}

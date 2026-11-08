@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 18_Pink_(Pinki)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: pink_(pinki)
+  displayName: Pink (Pinki)
+  soundCategory: 3
+  sortOrder: 17
+  isPartyTriggerItem: 0
+  themeColor: {r: 1, g: 0.5019608, b: 0.93333334, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: e551893de915a194a85085f510f92934, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 2a735f1ba4e824644b1c5c28fd001634, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: e551893de915a194a85085f510f92934, type: 3}
+  - {fileID: 8300000, guid: 2a735f1ba4e824644b1c5c28fd001634, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 12
+  iconSprite: {fileID: 21300000, guid: 4b9d10a8071076c4e987956ae6f9e388, type: 3}
+  idleSprite: {fileID: 21300000, guid: 37f299ba9ff3c1842a38019d83214d4d, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: 37c16ba78af50634f86c00f329268996, type: 3}
+  - {fileID: 21300000, guid: cb18dc5361e4ecc499b88f7704129e31, type: 3}
+  - {fileID: 21300000, guid: 107a8c7ab983fac43b6a1e8d1b7135b7, type: 3}
+  - {fileID: 21300000, guid: b056fdb3d26f0ea4c806439e2c18bbcb, type: 3}
+  - {fileID: 21300000, guid: 255df37c1e2f4f042bd27b1e86cbd6a6, type: 3}
+  - {fileID: 21300000, guid: f0e42754866710547a247816e42eb1e5, type: 3}
+  - {fileID: 21300000, guid: e4ccad5314a80fe409d77340851a42e6, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 37f299ba9ff3c1842a38019d83214d4d, type: 3}
+  - {fileID: 21300000, guid: 37c16ba78af50634f86c00f329268996, type: 3}
+  - {fileID: 21300000, guid: cb18dc5361e4ecc499b88f7704129e31, type: 3}
+  - {fileID: 21300000, guid: 107a8c7ab983fac43b6a1e8d1b7135b7, type: 3}
+  - {fileID: 21300000, guid: b056fdb3d26f0ea4c806439e2c18bbcb, type: 3}
+  - {fileID: 21300000, guid: 255df37c1e2f4f042bd27b1e86cbd6a6, type: 3}
+  - {fileID: 21300000, guid: f0e42754866710547a247816e42eb1e5, type: 3}
+  - {fileID: 21300000, guid: e4ccad5314a80fe409d77340851a42e6, type: 3}
+  originalScratchTargetName: Pink (Pinki)
+  importedAssetSubfolder: Pink_(Pinki)

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83351519199e0c429fc704d057eb0a0, type: 3}
+  m_Name: 08_Gold_(Garnold)
+  m_EditorClassIdentifier: Assembly-CSharp::SprunkiKids.Data.CharacterSoundData
+  characterId: gold_(garnold)
+  displayName: Gold (Garnold)
+  soundCategory: 1
+  sortOrder: 7
+  isPartyTriggerItem: 0
+  themeColor: {r: 1, g: 0.7764706, b: 0.2, a: 1}
+  mainLoopClip: {fileID: 8300000, guid: 63ddda899578d6841b9c4fe56b3809ad, type: 3}
+  secondaryLoopClip: {fileID: 8300000, guid: 0de65e6e6b10bd5458566a82b11001c4, type: 3}
+  partyLoopClip: {fileID: 0}
+  additionalClips:
+  - {fileID: 8300000, guid: 63ddda899578d6841b9c4fe56b3809ad, type: 3}
+  - {fileID: 8300000, guid: 0de65e6e6b10bd5458566a82b11001c4, type: 3}
+  loopBeats: 0
+  defaultVolume: 0.9
+  tapSfxClip: {fileID: 8300000, guid: 6f983f6cb3419fa4d97febff94fd2689, type: 3}
+  harmonicSemitoneOffset: 7
+  iconSprite: {fileID: 21300000, guid: 8f949c98622fad448a662b1cd97dc700, type: 3}
+  idleSprite: {fileID: 21300000, guid: 0752fb52881fee842a7865081b4ebb62, type: 3}
+  singingFrames:
+  - {fileID: 21300000, guid: bafa5d3d1e46c93459f86f4ff3bc8f24, type: 3}
+  - {fileID: 21300000, guid: b00e849fbb55f8649adc4044e0e70723, type: 3}
+  - {fileID: 21300000, guid: cbe1dc930ec3a2341be6144f982d87b8, type: 3}
+  - {fileID: 21300000, guid: 5784e2c60207671438707c81037b645b, type: 3}
+  singingFrameRate: 10
+  partySkinSprite: {fileID: 0}
+  partySingingFrames: []
+  allImportedCostumes:
+  - {fileID: 21300000, guid: 0752fb52881fee842a7865081b4ebb62, type: 3}
+  - {fileID: 21300000, guid: bafa5d3d1e46c93459f86f4ff3bc8f24, type: 3}
+  - {fileID: 21300000, guid: b00e849fbb55f8649adc4044e0e70723, type: 3}
+  - {fileID: 21300000, guid: cbe1dc930ec3a2341be6144f982d87b8, type: 3}
+  - {fileID: 21300000, guid: 5784e2c60207671438707c81037b645b, type: 3}
+  originalScratchTargetName: Gold (Garnold)
+  importedAssetSubfolder: Gold_(Garnold)
